@@ -1,4 +1,5 @@
-California Wildfire Damage
+California wildfire damage
+
 Overview
 The California Wildfire Damage project analyzes wildfire incidents across California using a dataset sourced from Kaggle. The project focuses on Exploratory Data Analysis (EDA) to uncover trends and patterns in wildfire damage. Various visualizations, including pie charts, KPIs, column charts, bar charts, and line charts, are used to present key insights.
 
