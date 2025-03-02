@@ -1,5 +1,5 @@
 
-# California wildfire
+# California wildfire damage
 
 California Wildfire Damage
 Overview
